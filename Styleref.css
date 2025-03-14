@@ -24,7 +24,7 @@ font-weight: bold;
 line-height: 20pt; 
 font-size: 20pt; 
 }
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 1200px) {
     .asciititle span p {
         color: white;
     font-family: 'Courier New', monospace;
