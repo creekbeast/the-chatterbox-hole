@@ -1,0 +1,56 @@
+body {
+background-color: black;
+}
+
+.asciititle, .second {
+ margin: auto;
+}
+.asciititle {
+position: relative;
+width: fit-content;
+text-align: center;
+display: block;
+margin-top: 20%;
+
+animation:bounce infinite 2s ease-in-out }
+@keyframes bounce {
+    50% { transform: translateY(10%) }
+}
+
+.asciititle span p {
+color: white;
+font-family: 'Courier New', monospace;
+font-weight: bold;
+line-height: 20pt; 
+font-size: 20pt; 
+}
+@media screen and (max-width: 600px) {
+    .asciititle span p {
+        color: white;
+    font-family: 'Courier New', monospace;
+    font-weight: bold;
+    line-height: 14pt; 
+    font-size: 14pt; 
+}
+.asciititle {
+    margin-top: 15em;
+   }
+}
+.second {
+text-align: center;
+width: fit-content;
+display: block;
+}
+p {
+font-family: 'Jersey 10', sans-serif;
+font-weight: 400;
+font-size: larger;
+font-style: normal;
+color: white;
+}
+a {
+color:rgb(195, 218, 247);
+}
+a:visited {
+color: bisque;
+}
