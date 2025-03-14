@@ -24,7 +24,7 @@ font-weight: bold;
 line-height: 20pt; 
 font-size: 20pt; 
 }
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 800px) {
     .asciititle span p {
         color: white;
     font-family: 'Courier New', monospace;
@@ -35,6 +35,9 @@ font-size: 20pt;
 .asciititle {
     margin-top: 15em;
    }
+.second {
+width: 80%
+}
 }
 .second {
 text-align: center;
