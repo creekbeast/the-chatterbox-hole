@@ -27,7 +27,7 @@ font-size: 20pt;
 }
 @media screen and (max-width: 350px) {
     .asciititle span p {
-   scale: 0.6;
+   scale: 0.3;
 }
 .asciititle {
     margin-top: 15em;
