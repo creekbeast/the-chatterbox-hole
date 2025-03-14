@@ -23,11 +23,17 @@ font-family: 'Courier New', monospace;
 font-weight: bold;
 line-height: 20pt; 
 font-size: 20pt; 
+display: inline-block;
 }
 }
 @media screen and (max-width: 350px) {
     .asciititle span p {
-   scale: 0.3;
+  color: white;
+font-family: 'Courier New', monospace;
+font-weight: bold;
+line-height: 14pt; 
+font-size: 14pt; 
+display: inline-block;
 }
 .asciititle {
     margin-top: 15em;
