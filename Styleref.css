@@ -27,8 +27,8 @@ font-size: 20pt;
 }
 @media screen and (max-width: 350px) {
     .asciititle span p {
-    line-height: 12pt; 
-    font-size: 12pt; 
+    line-height: 14pt; 
+    font-size: 14pt; 
 }
 .asciititle {
     margin-top: 15em;
