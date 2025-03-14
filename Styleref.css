@@ -16,7 +16,7 @@ animation:bounce infinite 2s ease-in-out }
 @keyframes bounce {
     50% { transform: translateY(10%) }
 }
-@media screen and (min-width: 351px) {
+@media screen and (min-width: 451px) {
 .asciititle span p {
 color: white;
 font-family: 'Courier New', monospace;
@@ -26,7 +26,7 @@ font-size: 20pt;
 display: inline-block;
 }
 }
-@media screen and (max-width: 350px) {
+@media screen and (max-width: 450px) {
     .asciititle span p {
   color: white;
 font-family: 'Courier New', monospace;
