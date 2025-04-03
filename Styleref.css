@@ -27,12 +27,12 @@ display: inline-block;
 }
 }
 @media screen and (max-width: 450px) {
-    .asciititle span p {
+ .asciititle span p {
   color: white;
 font-family: 'Courier New', monospace;
 font-weight: bold;
-line-height: 12pt; 
-font-size: 12pt; 
+line-height: 10pt; 
+font-size: 10pt; 
 display: inline-block;
 }
 .asciititle {
