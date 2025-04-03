@@ -28,7 +28,7 @@ display: inline-block;
 }
 @media screen and (max-width: 450px) {
  .asciititle span p {
-  color: white;
+ color: white;
 font-family: 'Courier New', monospace;
 font-weight: bold;
 line-height: 10pt; 
@@ -37,7 +37,6 @@ display: inline-block;
 }
 .asciititle {
  margin-top: 15em;
- margin: auto;
    }
 }
 .second {
