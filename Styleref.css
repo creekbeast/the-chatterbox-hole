@@ -37,6 +37,8 @@ display: inline-block;
 }
 .asciititle {
  margin-top: 15em;
+ margin-left: auto;
+ margin-right: auto;
    }
 }
 .second {
