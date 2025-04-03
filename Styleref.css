@@ -36,7 +36,8 @@ font-size: 10pt;
 display: inline-block;
 }
 .asciititle {
-    margin-top: 15em;
+ margin-top: 15em;
+ margin: auto;
    }
 }
 .second {
