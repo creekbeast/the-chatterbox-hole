@@ -1,4 +1,4 @@
-body {
+#body1 {
 background-color: black;
 }
 
@@ -59,4 +59,19 @@ color: rgb(176, 224, 230);
 }
 a:visited {
 color: bisque;
+}
+
+#body2 {
+    background-color: black;
+    margin:auto;
+}
+
+.centerimg {
+margin: auto;
+position: relative;
+width: fit-content;
+text-align: center;
+display: block;
+margin-top: 20%;
+margin-bottom: 20%;
 }
